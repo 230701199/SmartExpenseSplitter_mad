@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SmartExpenseSplitter</string>
+    <!--
+        Replace this with your actual Web Client ID from Firebase Console.
+        Go to: Firebase Console → Authentication → Sign-in method → Google → Web SDK configuration.
+        This value is auto-populated when you re-download google-services.json after enabling Google Sign-In.
+    -->
+    <string name="default_web_client_id"></string>
+</resources>
